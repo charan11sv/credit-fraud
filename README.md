@@ -1,4 +1,4 @@
-# credit-fraud
+# credit-fraud Unsupervised using custome GNN based auto-encoders
 
 Testing both **conventional supervised learning techniques** and **unsupervised custom GNN-based autoencoders** for credit-card fraud detection.
 
